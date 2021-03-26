@@ -1,41 +1,130 @@
-<h1 align="center">Hi 👋, I'm yash007</h1>
-<h3 align="center">A passionate Security Researcher from India</h3>
+<h2>नमस्ते (Namaste)🙏🏻, I'm yash007  <img src="https://giphy.com/stickers/TomAndJerry-tom-and-jerry-movie-z00XCKBng2nohbUr98" width="50"></h2>
+<img align='right' src="https://giphy.com/gifs/code-programmer-learn-to-RN8FdaB6T1bkkI5n4I" width="230">
+<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashomer1994&label=Profile%20views&color=0e75b6&style=flat" alt="yashomer1994" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
+![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
+![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashomer1994" alt="yashomer1994" /></a> </p>
+👇 Hit in your console or terminal to connect with me.
 
-<p align="left"> <a href="https://twitter.com/yash_omer" target="blank"><img src="https://img.shields.io/twitter/follow/yash_omer?logo=twitter&style=for-the-badge" alt="yash_omer" /></a> </p>
+```bash
+npx anmol
+```
+**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
-- 🔭 I’m currently working as **Security Researcher**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- 🌱 I’m currently learning **Rust,nim,Go**
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        mobileApp: ["Android App"],
+        frontEnd: {
+            js: ["Vue", "Nuxt"],
+            css: ["materialize", "vuetify", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "SuiteScript"],
+            python: ["flask"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Comptetive Programming using C++",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
-- 👯 I’m love to work on **Low level Exploits**
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-- 📝 I regularly write articles on [https://yashomer1994.github.io/yash007.github.io/](https://yashomer1994.github.io/yash007.github.io/)
+---
+<!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-887-blue)
 
-- 💬 Ask me about **Linux Kernel, Windows Internals, Android Internals**
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
-- 📫 How to reach me **yashomer0007@gmail.com**
+**🐱 My Github Data** 
 
-- 📄 Know about my experiences [https://yashomer1994.github.io/Resume/](https://yashomer1994.github.io/Resume/)
+> 🏆 18 Contributions in the Year 2021
+ > 
+> 📦 334.4 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 33 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm an Early 🐤** 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yash_omer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yash_omer" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/yash-omer-653636205" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="http://linkedin.com/in/yash-omer-653636205" height="30" width="40" /></a>
-</p>
+```text
+🌞 Morning    66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
+🌆 Daytime    179 commits    █████████░░░░░░░░░░░░░░░░   38.0% 
+🌃 Evening    122 commits    ██████░░░░░░░░░░░░░░░░░░░   25.9% 
+🌙 Night      104 commits    █████░░░░░░░░░░░░░░░░░░░░   22.08%
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```
+📅 **I'm Most Productive on Sunday** 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/yashomer1994"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashomer1994" /></a></p><br><br>
+```text
+Monday       62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Tuesday      52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.04% 
+Wednesday    45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.55% 
+Thursday     77 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
+Friday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
+Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
+Sunday       120 commits    ██████░░░░░░░░░░░░░░░░░░░   25.48%
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashomer1994&show_icons=true&locale=en&layout=compact" alt="yashomer1994" /></p>
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashomer1994&show_icons=true&locale=en" alt="yashomer1994" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashomer1994&" alt="yashomer1994" /></p>
+📊 **This Week I Spent My Time On** 
 
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Python                   55 mins             ██████████████░░░░░░░░░░░   55.61% 
+JavaScript               13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
+INI                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.7% 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
+
+🔥 Editors: 
+PyCharm                  1 hr 24 mins        █████████████████████░░░░   85.03% 
+WebStorm                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.97%
+
+💻 Operating System: 
+Mac                      1 hr 39 mins        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in Vue** 
+
+```text
+Vue                      10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Java                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Dart                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/anmol098/anmol098/master/charts/bar_graph.png) 
+
+
+<!--END_SECTION:waka-->
+
+**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
