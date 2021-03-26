@@ -13,7 +13,7 @@
 ### <img src="https://media.giphy.com/media/C2WsX4EhIUIILQYCJp/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const anmol = {
+const yash007 = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Python", "Java", "Android"],
     askMeAbout: ["Kernel", "tech", "app dev", "Linux kernel", "Malware Analysis", "iOS", "Android"],
