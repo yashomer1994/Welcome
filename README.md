@@ -18,7 +18,7 @@ const yash007 = {
     code: ["C", "C++", "Python", "Java", "Android"],
     askMeAbout: ["Kernel", "tech", "app dev", "Linux kernel", "Malware Analysis", "iOS", "Android"],
     technologies: {
-        mobileApp: ["VAPT"],
+        Core: ["VAPT"],
         Category: {
              ["Web", "Mobile", "Low Level"],
             Mobile: ["Android", "iOS"],
