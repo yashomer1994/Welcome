@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm yash007  <img src="https://media.giphy.com/media/z00XCKBng2nohbUr98/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Security Researcher at <a href="http://www.xbizventures.com">x-Biz</a><img src="https://media.giphy.com/media/hrMMLR9o9EYZnBBqFA/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yash_omer?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
@@ -15,12 +15,12 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["C", "C++", "Python", "Java", "Android"],
+    askMeAbout: ["VAPT", "tech", "app dev", "Red Teaming", "Malware Analysis", "Mobile Penetration Testing"],
     technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt"],
+        mobileApp: ["VAPT"],
+        Category: {
+            : ["Vue", "Nuxt"],
             css: ["materialize", "vuetify", "bootstrap"]
         },
         backEnd: {
