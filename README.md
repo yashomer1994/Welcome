@@ -16,16 +16,13 @@
 const anmol = {
     pronouns: "He" | "Him",
     code: ["C", "C++", "Python", "Java", "Android"],
-    askMeAbout: ["VAPT", "tech", "app dev", "Red Teaming", "Malware Analysis", "Mobile Penetration Testing"],
+    askMeAbout: ["Kernel", "tech", "app dev", "Linux kernel", "Malware Analysis", "iOS", "Android"],
     technologies: {
         mobileApp: ["VAPT"],
         Category: {
-            : ["Vue", "Nuxt"],
-            css: ["materialize", "vuetify", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask"]
+             ["Web", "Mobile", "Low Level"],
+            Mobile: ["Android", "iOS"],
+            Low : ["Windows","Linux","macOS"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
