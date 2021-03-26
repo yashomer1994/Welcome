@@ -12,7 +12,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-sudo 
+sudo apt install yash007
 ```
 **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
