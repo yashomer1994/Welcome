@@ -34,5 +34,5 @@ const yash007 = {
 };
 ```
 
-<img src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="60"> <em><b>I love talking with computers</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/VPZU7OKgjyEI7HetU0/giphy.gif" width="60"> <em><b>I love talking with computers</b>😊</em>
 
