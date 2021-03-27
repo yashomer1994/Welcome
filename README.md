@@ -4,11 +4,9 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yash_omer?label=Follow)](https://twitter.com/intent/follow?screen_name=yash_omer)
-[![Linkedin:yash-omer-653636205 ](https://img.shields.io/badge/-yash007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-omer-653636205)](https://www.linkedin.com/in/yash-omer-653636205/)![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![Linkedin:yash-omer-653636205 ](https://img.shields.io/badge/-yash007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-omer-653636205)](https://www.linkedin.com/in/yash-omer-653636205/)![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)[![Resume](https://media.giphy.com/media/63m5ONSzKcTz5frc9d/giphy.gif)](https://yashomer1994.github.io/Resume/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
-My Resume: 
 
 
 ### <img src="https://media.giphy.com/media/C2WsX4EhIUIILQYCJp/giphy.gif" width="50"> A little more about me...  
