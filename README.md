@@ -1,6 +1,6 @@
 <h2>नमस्ते (Namaste)🙏🏻, I'm yash007  <img src="https://media.giphy.com/media/z00XCKBng2nohbUr98/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/LEe5yo2E9Fi3FmuEPK/giphy.gif" width="230">
-<p><em>Security Researcher at <a href="http://www.xbizventures.com">x-Biz</a><img src="https://media.giphy.com/media/hrMMLR9o9EYZnBBqFA/giphy.gif" width="30"> 
+<p><img src="https://media.giphy.com/media/hrMMLR9o9EYZnBBqFA/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yash_omer?label=Follow)](https://twitter.com/intent/follow?screen_name=yash_omer)
